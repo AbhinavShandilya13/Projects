@@ -63,11 +63,11 @@ Here's a STAR (Situation, Task, Action, Result) analysis of this project:
     - I imported the Airbnb Listings dataset into **Tableau**.
     - I cleaned and transformed the data to remove any irrelevant or incomplete records.
     - I created various visualizations, including:
-        - **Bar chart** for average price per bedroom.
+        - **Bar chart** for an average price per bedroom.
         - **Map visualization** for prices by zip codes.
-        - **Line chart** to show revenue trends over the course of the year.
+        - **Line chart** to show revenue trends over the year.
         - **Distinct count** of bedroom listings to highlight supply in the market.
-    - I combined these elements into an interactive Tableau dashboard, ensuring each visualization was clear, relevant, and offered insights at a glance.
+    - I combined these elements into an interactive Tableau dashboard, ensuring each visualization was clear, and relevant, and offered insights at a glance.
 - **Result**: The project resulted in an interactive Tableau dashboard that allowed users to:
     - Quickly understand how Airbnb prices varied by the number of bedrooms.
     - Identify which zip codes had the highest average prices and highest density of listings.
