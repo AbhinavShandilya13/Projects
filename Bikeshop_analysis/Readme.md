@@ -11,10 +11,10 @@ This project involves analyzing sales, revenue, and rider demographics for a Bik
 The Power BI report includes the following:
 
 1. **Revenue and Profit Summary** - Displays total revenue ($5M) and profit ($3.42M) for the year.
-2. **KPI Over Time** - A line and bar chart showing the average of profit, revenue, and the number of riders per month.
-3. **Hourly Sales Table** - A detailed table that displays hourly sales data across a week.
+2. **KPI Over Time** - A line and bar chart showing the average profit, revenue, and the number of riders per month.
+3. **Hourly Sales Table** - A detailed table displaying weekly hourly sales data.
 4. **Revenue by Season** - A bar chart showing revenue per season.
-5. **Rider Demographics** - A donut chart that visualizes the ratio between registered (80.11%) and casual (19.89%) riders.
+5. **Rider Demographics** - A donut chart visualizes the ratio between registered (80.11%) and casual (19.89%) riders.
 
 ## Tools
 
