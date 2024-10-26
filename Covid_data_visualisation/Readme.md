@@ -1,14 +1,14 @@
 # COVID-19 Data Visualization Project
 
-This project provides a comprehensive visualization of COVID-19 data worldwide, focusing on metrics like global numbers, total deaths per continent, and the percent population infected over time. The visualizations are created using Tableau and showcase trends from July 2020 to September 2021.
+This project provides a comprehensive visualization of COVID-19 data worldwide, focusing on global numbers, total deaths per continent, and the percentage of population infected over time. The visualizations are created using Tableau and showcase trends from July 2020 to September 2021.
 
 ## Project Overview
 
 This Tableau dashboard covers:
 
-- **Global Numbers**: Displays total cases, total deaths, and death percentage globally.
+- **Global Numbers**: Displays total cases, deaths, and death percentage globally.
 - **Total Deaths Per Continent**: A bar chart illustrating the total deaths per continent.
-- **Percent Population Infected Per Country**: A map visualization showing the percentage of the population infected in different countries.
+**Percent Population Infected Per Country**: This is a map visualization showing the percentage of the population infected in different countries.
 - **Percent Population Infected Over Time**: A line chart depicting the monthly average percentage of the population infected in select countries.
 
 ## Dashboard Preview
@@ -42,7 +42,7 @@ This Tableau dashboard covers:
 
 ## Data Source
 
-The data used in this project is sourced from [World Health Organization (WHO) data] or other relevant COVID-19 databases. (Please specify if you used a particular dataset.)
+The data used in this project is sourced from [World Health Organization (WHO) data] or other relevant COVID-19 databases. 
 
 ## Acknowledgments
 
