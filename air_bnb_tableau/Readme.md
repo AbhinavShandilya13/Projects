@@ -21,38 +21,6 @@ The analysis includes the following visualizations:
 - **Tableau**: For data visualization and dashboard creation.
 - **Kaggle**: For sourcing the dataset.
 
-## How to View
-
-To view the Tableau dashboard, visit the published link: https://public.tableau.com/app/profile/abhinavshandilya13
-
-## Acknowledgments
-
-- Kaggle for providing the dataset.
-- Tableau for the data visualization platform.
-
-# Airbnb Listings 2016 Data Analysis
-
-This project involves analyzing Airbnb listing data from 2016 using Tableau to create visualizations for insights on pricing, listings, and revenue patterns.
-
-## Dataset
-
-- The dataset used is the **Airbnb Listings 2016 Dataset**, which was sourced from [Kaggle](https://www.kaggle.com/datasets/).
-- It contains information about various Airbnb listings, including prices, zip codes, and bedroom counts.
-
-## Visualizations
-
-The analysis includes the following visualizations:
-
-1. **Average Price per Bedroom** - A bar chart showcasing the average price for each bedroom count.
-2. **Distinct Count of Bedroom Listings** - A breakdown of the number of listings per bedroom count.
-3. **Price Per Zip code** - A map and bar chart comparing average prices by zip codes in the region.
-4. **Revenue for the Year** - A line chart showing the revenue trends throughout the year 2016.
-
-## Tools
-
-- **Tableau**: For data visualization and dashboard creation.
-- **Kaggle**: For sourcing the dataset.
-
 ## STAR Analysis
 
 Here's a STAR (Situation, Task, Action, Result) analysis of this project:
