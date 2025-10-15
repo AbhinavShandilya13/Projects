@@ -15,6 +15,7 @@ A data-driven analysis to identify key drivers of customer churn and provide act
 <li>
 <a href="#about-the-project">About The Project</a>
 <ul>
+<li><a href="#key-buisness-metrics-at-a-glance">Key Business Metrics at a Glance</a></li>
 <li><a href="#built-with">Built With</a></li>
 </ul>
 </li>
